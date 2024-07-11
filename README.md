@@ -7,6 +7,7 @@ print("Привет, Мир!")
 - 🐍 Python: Django, FastAPI, Flask
 - 🌐 Web: HTML/CSS, JavaScript
 - 🛠️ Инструменты: Git, Docker, CI/CD
+- 🤖 Боты: aiogram, Telebot
 
 ## 🌱 Что я в настоящее время изучаю:
 
@@ -30,6 +31,7 @@ Hello! I'm Gulmira, a Python enthusiast who enjoys learning and experimenting wi
 - 🐍 Python: Flask, Django, FastAPI
 - 🌐 Web: HTML/CSS, JavaScript
 - 🛠️ Tools: Git, Docker, CI/CD
+- 🤖 Bots: aiogram, Telebot
 
 ## 🌱 What I'm currently learning:
 
