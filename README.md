@@ -1,45 +1,20 @@
-print("Привет, Мир!")
+print("2 года багов, коммитов и [кофе](https://storage01.tea.ru/medialibrary/20a/20a978859358eef80be96a5e158e020e/9968daa2f23e1d06887cd12a620962fc_80.jpg) спустя… всё ещё пишу на Python 🐍")
 
-Привет! Меня зовут Гульмира, и я любитель Python. Я увлечена созданием красивого и эффективного кода, который не только работает, но и вдохновляет. Мой репозиторий - это моя лаборатория, где я экспериментирую с новыми идеями, демонстрирую свои проекты и делюсь своим опытом.
+Гульмира (или просто Gigi для друзей).  
+Backend-разработчик, который иногда притворяется, что понимает Kubernetes.
 
-## 💻 Какой стек технологий я использую:
+Любимые занятия:
+- Спорить с собой: «Зачем микросервисы, если монолит и так живёт счастливо?»
+- Смотреть на нейросети и думать: «[Да они захватя мир… но не сейчас](https://cs12.pikabu.ru/post_img/2022/03/21/11/1647891377179347940.jpg)»
+- Чинить баги в 3 часа ночи и не понимать, почему оно вдруг заработало
 
-- 🐍 Python: Django, FastAPI, Flask
-- 🌐 Web: HTML/CSS, JavaScript
-- 🛠️ Инструменты: Git, Docker, CI/CD
-- 🤖 Боты: aiogram, Telebot
+Технологии, с которыми сейчас дружу:
+🐍 Python • Django • DRF • FastAPI  
+🛠️ Docker, Nginx, CI/CD, иногда Kubernetes (страшно, но любопытно)  
++ куча мелочей, которые в проектах съедают 80% времени
 
-## 🌱 Что я в настоящее время изучаю:
+Проекты ниже ↓  
+Большинство моих реальных проектов — приватные (рабочие тайны, сами понимаете).  
+А здесь — честные учебные эксперименты из курсовых времён, когда я ещё верила, что код пишется с первого раза 😅
 
-Я всегда стремлюсь расширять свои знания и улучшать свои навыки. Вот что я изучаю в настоящее время:
-
-- 📚 Глубже погружаюсь в архитектуру микросервисов
-- 📊 Исследую возможности машинного обучения и искусственного интеллекта
-
-## 🔧 Мои проекты:
-
-Ниже вы найдете несколько моих
-
----------------------------------------------------------------------------------------------------
-
-print("Hello, World!")
-
-Hello! I'm Gulmira, a Python enthusiast who enjoys learning and experimenting with code. I'm passionate about exploring Python's capabilities and creating projects that reflect my journey in programming.
-
-## 💻 Technologies I work with:
-
-- 🐍 Python: Flask, Django, FastAPI
-- 🌐 Web: HTML/CSS, JavaScript
-- 🛠️ Tools: Git, Docker, CI/CD
-- 🤖 Bots: aiogram, Telebot
-
-## 🌱 What I'm currently learning:
-
-I'm always looking to expand my knowledge and enhance my skills. Here’s what I'm exploring right now:
-
-- 📚 Deep diving into microservices architecture
-- 📊 Exploring opportunities in machine learning and artificial intelligence
-
-## 🔧 My projects:
-
-Here are a few projects I've been working on:
+Не судите строго, я была моложе и смелее.
