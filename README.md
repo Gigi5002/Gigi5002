@@ -1,4 +1,4 @@
-print("2 года багов, коммитов и [кофе]([https://storage01.tea.ru/medialibrary/20a/20a978859358eef80be96a5e158e020e/9968daa2f23e1d06887cd12a620962fc_80.jpg](https://cs15.pikabu.ru/post_img/big/2025/01/29/9/1738159657243396336.png)) спустя… всё ещё пишу на Python 🐍")
+print("2 года багов, коммитов и [кофе](https://cs15.pikabu.ru/post_img/big/2025/01/29/9/1738159657243396336.png) спустя… всё ещё пишу на Python 🐍")
 
 Гульмира (или просто Gigi для друзей).  
 Backend-разработчик, который иногда притворяется, что понимает Kubernetes.
